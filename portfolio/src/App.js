@@ -24,7 +24,7 @@ function App() {
               <span onClick={() => setPage("portfolio")}>Portfolio</span>
             </li>
             <li>
-              <a href="">Resume</a>
+              <a href="https://docs.google.com/document/d/1K1C-vg5sRJW0LhPDi1RcXWLeBY0LDUZig8f2uC-VXUs/edit?usp=sharing">Resume</a>
             </li>
           </ul>
         </nav>
